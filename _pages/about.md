@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>postdoctoral associate at Cornell University's Department of Civil and Environmental Engineering</a>
+subtitle: <a href='#'>Postdoctoral associate at Cornell University's Department of Civil and Environmental Engineering</a>
 
 profile:
   align: right
