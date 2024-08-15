@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - philip928lin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - philip928lin/PyCHAMP
+  - philip928lin/HydroCNHS
+  - philip928lin/MultiWG
+  - philip928lin/AgriHydro_GWLF
+
