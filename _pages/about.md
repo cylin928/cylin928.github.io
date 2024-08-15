@@ -6,20 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bio-photo-cylin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hollister Hall, Room 210</p>
+    <p>Cornell University</p>
+    <p>Ithaca, NY 14850</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Chung-Yi Lin, Ph.D., is a postdoctoral associate at Cornell University's Department of Civil and Environmental Engineering, where he explores the intricate dynamics of human-natural systems through his expertise in water management and governance. His research is particularly focused on the sustainable use and governance of water resources, employing innovative methodologies such as agent-based modeling to analyze the complex interplay between human activities and environmental factors. This approach facilitates his examination of water use science and the development of smart water systems, aiming to enhance infrastructure performance and resilience against climate change and societal demands.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Lin's academic background includes a Ph.D. from Lehigh University and an M.S. from National Taiwan University in Bioenvironmental Systems Engineering. His work spans various aspects of environmental management, leveraging system dynamics, mathematical programming, and machine learning to address critical water-related challenges. His interdisciplinary research not only generates theoretical insights but also practical solutions that influence policy and promote sustainable practices. With multiple publications and a strong track record of securing research funding, Dr. Lin is committed to advancing the field through collaboration with a broad spectrum of professionals, stakeholders, and academic partners.
