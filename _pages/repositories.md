@@ -6,7 +6,7 @@ description: [https://github.com/philip928lin](https://github.com/philip928lin)
 nav: true
 nav_order: 4
 ---
-<!--
+
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -36,7 +36,7 @@ nav_order: 4
 {% endif %}
 
 ## GitHub Repositories
--->
+
 {% if site.data.repositories.github_repos %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
