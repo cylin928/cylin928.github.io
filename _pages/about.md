@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral associate at Cornell University's Department of Civil and Environmental Engineering
+subtitle: Postdoctoral Associate in the School of Civil and Environmental Engineering at Cornell University
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Chung-Yi Lin, Ph.D., is a postdoctoral associate at Cornell University's Department of Civil and Environmental Engineering, where he explores the intricate dynamics of human-natural systems through his expertise in water management and governance. His research is particularly focused on the sustainable use and governance of water resources, employing innovative methodologies such as agent-based modeling to analyze the complex interplay between human activities and environmental factors. This approach facilitates his examination of water use science and the development of smart water systems, aiming to enhance infrastructure performance and resilience against climate change and societal demands.
+Chung-Yi Lin, Ph.D., is a Postdoctoral Associate in the School of Civil and Environmental Engineering at Cornell University. His research examines the complex interactions among the natural environment, infrastructure, technology, and society to support risk-based decision-making and foster collaboration with diverse stakeholders. He employs system-based approaches, including agent-based modeling, data science, control, mathematical programming, and decision theory, to advance sustainable water resources management.
 
-Dr. Lin's academic background includes a Ph.D. from Lehigh University and an M.S. from National Taiwan University in Bioenvironmental Systems Engineering. His work spans various aspects of environmental management, leveraging system dynamics, mathematical programming, and machine learning to address critical water-related challenges. His interdisciplinary research not only generates theoretical insights but also practical solutions that influence policy and promote sustainable practices. With multiple publications and a strong track record of securing research funding, Dr. Lin is committed to advancing the field through collaboration with a broad spectrum of professionals, stakeholders, and academic partners.
+Before joining Cornell, Chung-Yi was a postdoctoral researcher in the Department of Civil and Environmental Engineering at Virginia Tech. He holds a Ph.D. in Civil Engineering from Lehigh University and an M.S. and B.S. in Bioenvironmental Systems Engineering from National Taiwan University.
