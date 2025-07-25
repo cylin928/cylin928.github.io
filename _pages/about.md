@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Associate in the School of Civil and Environmental Engineering at Cornell University
+subtitle: Assistant Professor in the School of Civil and Environmental Engineering and Earth Sciences at Clemson University
 
 profile:
   align: right
   image: bio-photo-cylin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hollister Hall, Room 210</p>
-    <p>Cornell University</p>
-    <p>Ithaca, NY 14850</p>
+    <p>Lowry Hall, Room --</p>
+    <p>Clemson University</p>
+    <p>Clemson, SC 29631</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
