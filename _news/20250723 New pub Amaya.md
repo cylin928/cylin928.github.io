@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚨 Understanding Rural-to-Urban Water Transfers: An Agent-Based and Input-Output Modeling Approach."
-date: 2024-08-12 16:11:00-0400
+date: 2025-07-23 16:11:00-0400
 inline: false
 related_posts: false
 ---
