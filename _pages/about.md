@@ -22,4 +22,6 @@ Chung-Yi Lin, Ph.D., is an Assistant Professor in the School of Civil and Enviro
 
 Before joining Clemson University, Dr. Lin completed postdoctoral research appointments at Virginia Tech and Cornell University. He holds a Ph.D. in Civil Engineering from Lehigh University and an M.S. and B.S. in Bioenvironmental Systems Engineering from National Taiwan University. Dr. Lin currently serves as the Social Media Chair for the American Geophysical Union’s Water & Society Technical Committee and as a member of the ASCE-EWRI Environmental and Water Resources System Committee.
 
-## I am recruiting for two fully funded Ph.D. positions! Stay tuned for the official announcement, but feel free to reach out if you have a research idea you'd like to work on with me!
+## I am hiring!
+
+I am recruiting for two fully funded Ph.D. positions! Stay tuned for the official announcement, but feel free to reach out if you have a research idea you'd like to work on with me!
