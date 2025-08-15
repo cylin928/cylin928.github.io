@@ -1,12 +1,12 @@
 github_users:
-  - philip928lin
+  - cylin928
 
 repo_description_lines_max: 2
 
 github_repos:
-  - philip928lin/PyCHAMP
-  - philip928lin/HydroCNHS
-  - philip928lin/MultiWG
-  - philip928lin/PathNavigator
+  - cylin928/PyCHAMP
+  - cylin928/HydroCNHS
+  - cylin928/MultiWG
+  - cylin928/PathNavigator
   - Pywr-DRB/Pywr-DRB
 
