@@ -9,7 +9,7 @@ profile:
   image: bio-photo-cylin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Lowry Hall, Room 208</p>
+    <p>Lowry Hall, Room 302D</p>
     <p>Clemson University</p>
     <p>Clemson, SC 29631</p>
 
