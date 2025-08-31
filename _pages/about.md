@@ -12,6 +12,7 @@ profile:
     <p>Lowry Hall, Room 302D</p>
     <p>Clemson University</p>
     <p>Clemson, SC 29631</p>
+    <p><a href="https://lins-lab-at-clemson.github.io/" target="_blank" rel="noopener">LINS Lab</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,4 +23,6 @@ Chung-Yi Lin, Ph.D., is an Assistant Professor in the School of Civil and Enviro
 
 Before joining Clemson University, Dr. Lin completed postdoctoral research appointments at Virginia Tech and Cornell University. He holds a Ph.D. in Civil Engineering from Lehigh University and an M.S. and B.S. in Bioenvironmental Systems Engineering from National Taiwan University. Dr. Lin currently serves as the Social Media Chair for the American Geophysical Union’s Water & Society Technical Committee and as a member of the ASCE-EWRI Environmental and Water Resources System Committee.
 
->***I am actively recruiting fully funded Ph.D. students!** As a new faculty member, I welcome diverse research ideas and am flexible in shaping projects. Please feel free to reach out to discuss your interests and potential research directions.*
+>***I am actively recruiting fully funded Ph.D. students!** Master's and undergraduate opportunities are also available. As a new faculty member, I welcome diverse research ideas and am flexible in shaping projects. Please feel free to reach out to discuss your interests and potential research directions.* 
+
+>**Check [LINS Lab website](https://lins-lab-at-clemson.github.io/) to see opportunities!**
